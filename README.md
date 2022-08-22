@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **web development with Node.js, databases with MySQL, and strengthening my C++ skills.**
 
-- 📫 How to reach me **frias.daniel.ab@gmail.com**
+- 📫 How to reach me: **frias.daniel.ab@gmail.com**
 
-- ⚡ Fun fact **Cycle counting on the Game Boy Advance is quite complicated!**
+- ⚡ Fun fact: **Cycle counting on the Game Boy Advance is quite complicated!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
