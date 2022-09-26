@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 <h3 align="center">Recent CS Graduate from TAMU and aspiring software engineer</h3>
 
-- 🔭 I’m currently working on **expanding my portfolio on github.**
+- 🔭 I’m currently working on **exercising my programming skills by building some personal projects.**
 
-- 🌱 I’m currently learning **web development with Node.js, databases with MySQL, and strengthening my C++ skills.**
+- 🌱 I’m currently learning **building small-to-medium projects w/ C++, web development with Node.js, and databases with MySQL.**
 
 - 📫 How to reach me: **frias.daniel.ab@gmail.com**
 
-- ⚡ Fun fact: **Cycle counting on the Game Boy Advance is quite complicated!**
+- ⚡ Fun fact: **Apart from learning programming, I am currently learning German! Hallo, wie geht's?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
