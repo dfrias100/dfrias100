@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **frias.daniel.ab@gmail.com**
 
-- ⚡ Fun fact: **Along with learning programming languages, I am also learning German! Hallo, es freut mich Sie kennenzulernen!**
+- ⚡ Fun fact: **Along with learning programming languages, I am also learning German!** _Hallo, es freut mich Sie kennenzulernen!_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
